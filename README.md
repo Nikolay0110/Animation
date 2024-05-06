@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ipfcgvelxuxnrjy9?svg=true)](https://ci.appveyor.com/project/Nikolay0110/animation)
+
+<a href="https://nikolay0110.github.io/Animation/">GitHub Pages</a>
+
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
